@@ -1,0 +1,89 @@
+{
+  'ok': 1,
+  'data': {
+    'userInfo': {
+      'id': 3275235775,
+      'screen_name': '赵昊sama',
+      'profile_image_url': 'https://tva3.sinaimg.cn/crop.0.0.480.480.180/c33821bfjw8ebzsfcop8gj20dc0dc0t5.jpg',
+      'profile_url': 'https://m.weibo.cn/u/3275235775?uid=3275235775&luicode=10000011&lfid=1005053275235775',
+      'statuses_count': 1065,
+      'verified': False,
+      'verified_type': -1,
+      'close_blue_v': False,
+      'description': '手撕崽种 一撕一个 要是不服 线下交流 皇城pk 胜者为王',
+      'gender': 'm',
+      'mbtype': 2,
+      'urank': 14,
+      'mbrank': 1,
+      'follow_me': False,
+      'following': False,
+      'followers_count': 64,
+      'follow_count': 207,
+      'cover_image_phone': 'https://tva3.sinaimg.cn/crop.0.0.640.640.640/68f96449tw1egwcah85a8j20hs0hsdic.jpg',
+      'avatar_hd': 'https://ww3.sinaimg.cn/orj480/c33821bfjw8ebzsfcop8gj20dc0dc0t5.jpg',
+      'like': False,
+      'like_me': False,
+      'toolbar_menus': [
+        {
+          'type': 'profile_follow',
+          'name': '关注',
+          'pic': '',
+          'params': {
+            'uid': 3275235775
+          }
+        },
+        {
+          'type': 'link',
+          'name': '聊天',
+          'pic': 'http://h5.sinaimg.cn/upload/2015/06/12/2/toolbar_icon_discuss_default.png',
+          'params': {
+            'scheme': 'sinaweibo://messagelist?uid=3275235775&nick=赵昊sama'
+          },
+          'scheme': 'https://passport.weibo.cn/signin/welcome?entry=mweibo&r=https%3A%2F%2Fm.weibo.cn%2Fu%2F3275235775'
+        },
+        {
+          'type': 'link',
+          'name': '文章',
+          'pic': '',
+          'params': {
+            'scheme': 'sinaweibo://cardlist?containerid=2303190002_445_3275235775_WEIBO_ARTICLE_LIST_DETAIL&count=20'
+          },
+          'scheme': 'https://m.weibo.cn/p/index?containerid=2303190002_445_3275235775_WEIBO_ARTICLE_LIST_DETAIL&count=20&luicode=10000011&lfid=1005053275235775'
+        }
+      ]
+    },
+    'avatar_guide': [],
+    'fans_scheme': 'https://m.weibo.cn/p/index?containerid=231051_-_fans_intimacy_-_3275235775&luicode=10000011&lfid=1005053275235775',
+    'follow_scheme': 'https://m.weibo.cn/p/index?containerid=231051_-_followersrecomm_-_3275235775&luicode=10000011&lfid=1005053275235775',
+    'tabsInfo': {
+      'selectedTab': 1,
+      'tabs': [
+        {
+          'title': '主页',
+          'tab_type': 'profile',
+          'containerid': '2302833275235775'
+        },
+        {
+          'title': '微博',
+          'tab_type': 'weibo',
+          'containerid': '1076033275235775',
+          'apipath': '/profile/statuses',
+          'url': '/index/my'
+        },
+        {
+          'title': '相册',
+          'tab_type': 'album',
+          'containerid': '1078033275235775',
+          'filter_group_info': {
+            'title': '全部照片(0)',
+            'icon': 'http://u1.sinaimg.cn/upload/2014/06/10/userinfo_icon_album.png',
+            'icon_name': '专辑',
+            'icon_scheme': ''
+          }
+        }
+      ]
+    },
+    'showAppTips': 1,
+    'scheme': 'sinaweibo://userinfo?uid=3275235775&luicode=10000011&lfid=1005053275235775&from=1110006030'
+  }
+}

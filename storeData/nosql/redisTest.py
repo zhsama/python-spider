@@ -1,0 +1,21 @@
+from redis import StrictRedis, ConnectionPool
+
+# redis = StrictRedis(host='localhost', port=6379, db=0, password='')
+# redis.set('name', 'Bob')
+# redis.set('age', 20)
+# redis.set('sex', 'male')
+# redis.set('class', 'class1')
+# redis.set('id', 180720)
+# print(redis.get('name'))
+
+# pool = ConnectionPool(host='localhost', port=6379, db=0, password='')
+# redis = StrictRedis(connection_pool=pool)
+# print(redis.exists('name'))
+# print(redis.type('name'))
+# print(redis.keys('*'))
+# print(redis.randomkey())
+# print(redis.rename('id', 'stuid'))
+# print(redis.dbsize())
+# print(redis.expire('name', -1))
+# print(redis.ttl('name'))
+# print(redis.move('name', 2))
