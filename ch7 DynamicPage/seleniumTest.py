@@ -136,7 +136,7 @@ from selenium.common.exceptions import NoSuchFrameException
 # time.sleep(2)
 # browser.forward()
 
-# cookies
+# CookiesPool
 # browser = webdriver.Chrome()
 # url = 'https://www.baidu.com'
 # print(browser.get_cookies())

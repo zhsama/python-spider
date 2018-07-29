@@ -9,10 +9,10 @@ import urllib3
 # r = requests.post('https://httpbin.org/post', files=files)
 # print(r.text)
 
-# cookies
+# CookiesPool
 # r = requests.get('https://www.baidu.com')
-# print(r.cookies)
-# for key,val in r.cookies.items():
+# print(r.CookiesPool)
+# for key,val in r.CookiesPool.items():
 #     print(key,val)
 
 # __DAYU_PP=iyBIZeuvmzI2VQmQvZvn2d23b7cb8b93; _zap=474829c0-aa81-43a3-97bd-c94a02c8c634; __utma=51854390.1171665045.1525114953.1525114953.1525114953.1; __utmz=51854390.1525114953.1.1.utmcsr=zhihu.com|utmccn=(referral)|utmcmd=referral|utmcct=/question/274062916; __utmv=51854390.100-1|2=registration_date=20160613=1^3=entry_date=20160613=1; d_c0="ACCg6vZJiQ2PTs0h3JyW8V0M0j8rX4twslw=|1525331603"; q_c1=c3891c1f5874412bac9f34f2a77a0efe|1529561129000|1521464585000; _xsrf=7f9624de-5051-4a60-8a8e-1e161694fdbe; tgw_l7_route=156dfd931a77f9586c0da07030f2df36
@@ -34,14 +34,14 @@ import urllib3
 # r = requests.get('https://www.zhihu.com', headers=headers)
 # print(r.text)
 
-# cookies = '__DAYU_PP=iyBIZeuvmzI2VQmQvZvn2d23b7cb8b93; _zap=474829c0-aa81-43a3-97bd-c94a02c8c634; __utma=51854390.1171665045.1525114953.1525114953.1525114953.1; __utmz=51854390.1525114953.1.1.utmcsr=zhihu.com|utmccn=(referral)|utmcmd=referral|utmcct=/question/274062916; __utmv=51854390.100-1|2=registration_date=20160613=1^3=entry_date=20160613=1; d_c0="ACCg6vZJiQ2PTs0h3JyW8V0M0j8rX4twslw=|1525331603"; q_c1=c3891c1f5874412bac9f34f2a77a0efe|1529561129000|1521464585000; _xsrf=7f9624de-5051-4a60-8a8e-1e161694fdbe; tgw_l7_route=156dfd931a77f9586c0da07030f2df36'
-# jar = requests.cookies.RequestsCookieJar()
-# for cookie in cookies.split(';'):
+# CookiesPool = '__DAYU_PP=iyBIZeuvmzI2VQmQvZvn2d23b7cb8b93; _zap=474829c0-aa81-43a3-97bd-c94a02c8c634; __utma=51854390.1171665045.1525114953.1525114953.1525114953.1; __utmz=51854390.1525114953.1.1.utmcsr=zhihu.com|utmccn=(referral)|utmcmd=referral|utmcct=/question/274062916; __utmv=51854390.100-1|2=registration_date=20160613=1^3=entry_date=20160613=1; d_c0="ACCg6vZJiQ2PTs0h3JyW8V0M0j8rX4twslw=|1525331603"; q_c1=c3891c1f5874412bac9f34f2a77a0efe|1529561129000|1521464585000; _xsrf=7f9624de-5051-4a60-8a8e-1e161694fdbe; tgw_l7_route=156dfd931a77f9586c0da07030f2df36'
+# jar = requests.CookiesPool.RequestsCookieJar()
+# for cookie in CookiesPool.split(';'):
 #     key, val = cookie.split('=', 1)
 #     jar.set(key, val)
-# r = requests.get('https://www.zhihu.com', cookies=jar, headers=headers)
+# r = requests.get('https://www.zhihu.com', CookiesPool=jar, headers=headers)
 # # print(r.text)
-# for key, val in r.cookies.items():
+# for key, val in r.CookiesPool.items():
 #     print(key + val)
 
 # 会话维持

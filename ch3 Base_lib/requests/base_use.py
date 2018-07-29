@@ -7,7 +7,7 @@ import requests
 # print(r.status_code)  # 200
 # print(type(r.text))  # <class 'str'>
 # print(r.text)  # html代码
-# print(r.cookies)  # <Cookie BDORZ=27315 for .baidu.com/>
+# print(r.CookiesPool)  # <Cookie BDORZ=27315 for .baidu.com/>
 
 # json
 # r = requests.get('http://httpbin.org/get')

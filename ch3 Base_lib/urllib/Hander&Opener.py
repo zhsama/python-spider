@@ -37,7 +37,7 @@
 #     print(e.reason)
 
 
-# cookies
+# CookiesPool
 import http.cookiejar
 import urllib.request
 
