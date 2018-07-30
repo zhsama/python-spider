@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db5eadcb-2c59-4786-886d-432aa676fbe1" name="Default" comment="0728 afternoon">
-      <change afterPath="$PROJECT_DIR$/CookiesPool/cookiespool/api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/cookiespool/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/cookiespool/db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/cookiespool/generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/cookiespool/importer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/cookiespool/scheduler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/cookiespool/tester.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/importer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/login/weibo/cookies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CookiesPool/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10 simulatedLogin/github/Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6 Ajax/weibo.py" afterDir="false" />
+    <list default="true" id="db5eadcb-2c59-4786-886d-432aa676fbe1" name="Default" comment="0729 afternoon">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11 AppSpider/Appium/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11 AppSpider/Appium/testAPI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11 AppSpider/Charles/charlesTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11 AppSpider/Mitmproxy/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3 Base_lib/requests/advance_use.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch3 Base_lib/requests/advance_use.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3 Base_lib/requests/base_use.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch3 Base_lib/requests/base_use.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch3 Base_lib/urllib/Hander&amp;Opener.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch3 Base_lib/urllib/Hander&amp;Opener.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch7 DynamicPage/seleniumTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch7 DynamicPage/seleniumTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,47 +18,51 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_spider$seleniumTest.coverage" NAME="seleniumTest Coverage Results" MODIFIED="1532255660348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPage" />
     <SUITE FILE_PATH="coverage/python_spider$proxytest.coverage" NAME="proxytest Coverage Results" MODIFIED="1532766881619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/examples" />
+    <SUITE FILE_PATH="coverage/python_spider$test.coverage" NAME="test Coverage Results" MODIFIED="1532879963820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11 AppSpider/Mitmproxy" />
+    <SUITE FILE_PATH="coverage/python_spider$testAPI.coverage" NAME="testAPI Coverage Results" MODIFIED="1532879955452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11 AppSpider/Appium" />
     <SUITE FILE_PATH="coverage/python_spider$api.coverage" NAME="api Coverage Results" MODIFIED="1532767178775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/proxypool" />
     <SUITE FILE_PATH="coverage/python_spider$run.coverage" NAME="run Coverage Results" MODIFIED="1532767830302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy" />
-    <SUITE FILE_PATH="coverage/python_spider$seleniumTaobao.coverage" NAME="seleniumTaobao Coverage Results" MODIFIED="1532597415668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPage" />
-    <SUITE FILE_PATH="coverage/python_spider$run__2_.coverage" NAME="run (2) Coverage Results" MODIFIED="1532856518071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookiesPool" />
-    <SUITE FILE_PATH="coverage/python_spider$Xpath.coverage" NAME="Xpath Coverage Results" MODIFIED="1532255604669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AnalysisLib/xpath" />
-    <SUITE FILE_PATH="coverage/python_spider$db.coverage" NAME="db Coverage Results" MODIFIED="1532852903381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiespool" />
-    <SUITE FILE_PATH="coverage/python_spider$urllibProxy.coverage" NAME="urllibProxy Coverage Results" MODIFIED="1532602052630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/setProxy" />
+    <SUITE FILE_PATH="coverage/python_spider$run__2_.coverage" NAME="run (2) Coverage Results" MODIFIED="1532856958013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookiesPool" />
     <SUITE FILE_PATH="coverage/python_spider$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1532769751695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proxypool" />
-    <SUITE FILE_PATH="coverage/python_spider$importer.coverage" NAME="importer Coverage Results" MODIFIED="1532856495082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookiesPool" />
     <SUITE FILE_PATH="coverage/python_spider$geetest.coverage" NAME="geetest Coverage Results" MODIFIED="1532513974293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verifyCode/geetest" />
-    <SUITE FILE_PATH="coverage/python_spider$webapi.coverage" NAME="webapi Coverage Results" MODIFIED="1532694993487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proxypool" />
-    <SUITE FILE_PATH="coverage/python_spider$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1532362101140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPage" />
     <SUITE FILE_PATH="coverage/python_spider$example.coverage" NAME="example Coverage Results" MODIFIED="1532767478155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/examples" />
     <SUITE FILE_PATH="coverage/python_spider$crack.coverage" NAME="crack Coverage Results" MODIFIED="1532512387109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/verifyCode/geetest" />
     <SUITE FILE_PATH="coverage/python_spider$seleniumProxy.coverage" NAME="seleniumProxy Coverage Results" MODIFIED="1532604296455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/setProxy" />
     <SUITE FILE_PATH="coverage/python_spider$toutiaoAjax.coverage" NAME="toutiaoAjax Coverage Results" MODIFIED="1532687191012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch6 Ajax" />
-    <SUITE FILE_PATH="coverage/python_spider$setting.coverage" NAME="setting Coverage Results" MODIFIED="1532766511414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/proxypool" />
     <SUITE FILE_PATH="coverage/python_spider$requestsProxy.coverage" NAME="requestsProxy Coverage Results" MODIFIED="1532603915381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/setProxy" />
     <SUITE FILE_PATH="coverage/python_spider$Login.coverage" NAME="Login Coverage Results" MODIFIED="1532777190608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10 simulatedLogin/github" />
+    <SUITE FILE_PATH="coverage/python_spider$charlesTest.coverage" NAME="charlesTest Coverage Results" MODIFIED="1532857511414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11 AppSpider/Charles" />
+    <SUITE FILE_PATH="coverage/python_spider$seleniumTaobao.coverage" NAME="seleniumTaobao Coverage Results" MODIFIED="1532597415668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPage" />
+    <SUITE FILE_PATH="coverage/python_spider$Xpath.coverage" NAME="Xpath Coverage Results" MODIFIED="1532255604669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AnalysisLib/xpath" />
+    <SUITE FILE_PATH="coverage/python_spider$db.coverage" NAME="db Coverage Results" MODIFIED="1532852903381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cookiespool" />
+    <SUITE FILE_PATH="coverage/python_spider$urllibProxy.coverage" NAME="urllibProxy Coverage Results" MODIFIED="1532602052630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/setProxy" />
+    <SUITE FILE_PATH="coverage/python_spider$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1532861309830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11 AppSpider/Appium" />
+    <SUITE FILE_PATH="coverage/python_spider$importer.coverage" NAME="importer Coverage Results" MODIFIED="1532856495082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CookiesPool" />
+    <SUITE FILE_PATH="coverage/python_spider$webapi.coverage" NAME="webapi Coverage Results" MODIFIED="1532694993487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Proxypool" />
+    <SUITE FILE_PATH="coverage/python_spider$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1532362101140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicPage" />
+    <SUITE FILE_PATH="coverage/python_spider$setting.coverage" NAME="setting Coverage Results" MODIFIED="1532766511414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/proxy/proxypool" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-841911849">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
-          <entry key="project.open.time.6" value="5" />
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.6" value="6" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="py" value="9051" />
-          <entry key="txt" value="2" />
+          <entry key="py" value="10189" />
+          <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="9051" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="10189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -78,7 +71,7 @@
           <entry key="jpg" value="10" />
           <entry key="json" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="128" />
+          <entry key="py" value="135" />
           <entry key="pyi" value="1" />
           <entry key="txt" value="1" />
         </counts>
@@ -89,7 +82,7 @@
           <entry key="JSON" value="1" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="128" />
+          <entry key="Python" value="135" />
           <entry key="PythonStub" value="1" />
         </counts>
       </usages-collector>
@@ -98,117 +91,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/config.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch11 AppSpider/Mitmproxy/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/db.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
-              <folding>
-                <element signature="e#0#44#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/tester.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+            <state relative-caret-position="486">
+              <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-                <marker date="1532855930525" expanded="true" signature="632:1618" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-                <marker date="1532855930989" expanded="true" signature="125:130" ph="..." />
-                <marker date="1532855930989" expanded="true" signature="173:367" ph="..." />
-                <marker date="1532855930989" expanded="true" signature="419:424" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/generator.py">
+        <entry file="file://$PROJECT_DIR$/ch11 AppSpider/Charles/charlesTest.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/login/weibo/cookies.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="51" selection-start-column="51" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/importer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/importer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="49" selection-start-column="49" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/scheduler.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-838">
-              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-                <marker date="1532855930952" expanded="true" signature="181:186" ph="..." />
               </folding>
             </state>
           </provider>
@@ -237,10 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DynamicPage/seleniumTaobao.py" />
-        <option value="$PROJECT_DIR$/proxy/setProxy/urllibProxy.py" />
-        <option value="$PROJECT_DIR$/proxy/setProxy/requestsProxy.py" />
-        <option value="$PROJECT_DIR$/proxy/setProxy/seleniumProxy.py" />
         <option value="$PROJECT_DIR$/proxy/Proxypool/error.py" />
         <option value="$PROJECT_DIR$/proxy/Proxypool/proxypool.py" />
         <option value="$PROJECT_DIR$/Proxypool/utils.py" />
@@ -288,6 +185,10 @@
         <option value="$PROJECT_DIR$/CookiesPool/cookiespool/config.py" />
         <option value="$PROJECT_DIR$/CookiesPool/cookiespool/db.py" />
         <option value="$PROJECT_DIR$/CookiesPool/importer.py" />
+        <option value="$PROJECT_DIR$/ch11 AppSpider/Charles/charlesTest.py" />
+        <option value="$PROJECT_DIR$/ch11 AppSpider/Mitmproxy/test.py" />
+        <option value="$PROJECT_DIR$/ch11 AppSpider/Appium/test.py" />
+        <option value="$PROJECT_DIR$/ch11 AppSpider/Appium/testAPI.py" />
       </list>
     </option>
   </component>
@@ -310,7 +211,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,17 +221,25 @@
             <path>
               <item name="python-spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-spider" type="462c0819:PsiDirectoryNode" />
-              <item name="CookiesPool" type="462c0819:PsiDirectoryNode" />
+              <item name="ch11 AppSpider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-spider" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="ch11 AppSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="Charles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-spider" type="462c0819:PsiDirectoryNode" />
+              <item name="ch11 AppSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="Mitmproxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +247,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -365,8 +273,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run (2)">
-    <configuration name="Login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.test">
+    <configuration name="charlesTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -374,78 +282,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch10 simulatedLogin/github" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11 AppSpider/Charles" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch10 simulatedLogin/github/Login.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="db" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cookiespool" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cookiespool/db.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="importer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CookiesPool" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CookiesPool/importer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python-spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Proxypool" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Proxypool/run.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11 AppSpider/Charles/charlesTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -476,20 +318,86 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11 AppSpider/Appium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11 AppSpider/Appium/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11 AppSpider/Mitmproxy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11 AppSpider/Mitmproxy/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testAPI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch11 AppSpider/Appium" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch11 AppSpider/Appium/testAPI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.run (1)" />
-      <item itemvalue="Python.Login" />
-      <item itemvalue="Python.db" />
       <item itemvalue="Python.run (2)" />
-      <item itemvalue="Python.importer" />
+      <item itemvalue="Python.charlesTest" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test (1)" />
+      <item itemvalue="Python.testAPI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.testAPI" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.charlesTest" />
         <item itemvalue="Python.run (2)" />
-        <item itemvalue="Python.importer" />
-        <item itemvalue="Python.db" />
-        <item itemvalue="Python.Login" />
-        <item itemvalue="Python.run (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -525,18 +433,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532769309337</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="0729 afternoon">
+      <created>1532856881354</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532856881354</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.13326226" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.33116177" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.33116177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -545,7 +460,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" weight="0.32790446" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49946696" visible="true" weight="0.32790446" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50053304" side_tool="true" weight="0.32790446" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -587,19 +502,10 @@
     <MESSAGE value="0723 afternoon" />
     <MESSAGE value="0726 afternoon" />
     <MESSAGE value="0728 afternoon" />
-    <option name="LAST_COMMIT_MESSAGE" value="0728 afternoon" />
+    <MESSAGE value="0729 afternoon" />
+    <option name="LAST_COMMIT_MESSAGE" value="0729 afternoon" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch6 Ajax/人像摄影：街拍，又见街拍/b9408bd6b7fd5a5a1149699c7ee84367.jpg" />
-    <entry file="file://$PROJECT_DIR$/ch6 Ajax/人像摄影：街拍，又见街拍/ff21b70626576bfde1afc68444840df4.jpg" />
-    <entry file="file://$PROJECT_DIR$/ch6 Ajax/toutiaoAjax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/.gitignore" />
     <entry file="file://$PROJECT_DIR$/proxy/requirements.txt" />
     <entry file="file://$PROJECT_DIR$/proxy/proxypool/importer.py" />
     <entry file="file://$PROJECT_DIR$/proxy/proxypool/api.py" />
@@ -712,9 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -725,17 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/tester.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1532855930525" expanded="true" signature="632:1618" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/778826354/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -743,13 +635,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/generator.py">
+    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/api.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="404">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/tester.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
         </state>
       </provider>
     </entry>
@@ -760,13 +663,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/db.py">
+    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/generator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CookiesPool/login/weibo/cookies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/importer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
@@ -777,53 +691,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/importer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/scheduler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-838">
           <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1532855930952" expanded="true" signature="181:186" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CookiesPool/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="51" selection-start-column="51" selection-end-column="51" />
+        <state relative-caret-position="270">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CookiesPool/login/weibo/cookies.py">
+    <entry file="file://$PROJECT_DIR$/ch11 AppSpider/Appium/testAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="11" column="61" lean-forward="true" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch11 AppSpider/Appium/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="15" column="80" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch11 AppSpider/Mitmproxy/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CookiesPool/cookiespool/api.py">
+    <entry file="file://$PROJECT_DIR$/ch11 AppSpider/Charles/charlesTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="135">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
-            <marker date="1532855930989" expanded="true" signature="125:130" ph="..." />
-            <marker date="1532855930989" expanded="true" signature="173:367" ph="..." />
-            <marker date="1532855930989" expanded="true" signature="419:424" ph="..." />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
